@@ -6,16 +6,32 @@
 
 ### 个人简介 ###
 
-27岁，本科学士学位，哈尔滨学院软件工程专业，在全国及东北数学建模竞赛中获得优秀奖和一等奖。拥有'软件设计工程师'和'信息系统项目管理师'软件工程类别中、高级资格证书（国家工信部和人社部）。  
-七年信息系统设计和研发经验，精通Java/C#/JavaScript等开发语言。2011年开始进入物联网领域，目前主研 大规模设备/机器的物联通信、高性能Web应用系统等方向的研究，业余IT架构师、Hybrid Mobile App研究。
+29岁，本科学士学位，哈尔滨学院软件工程专业，在全国及东北数学建模竞赛中获得优秀奖和一等奖。拥有'软件设计工程师'和'信息系统项目管理师'软件工程类别中、高级资格证书（国家工信部和人社部）。  
+九年信息系统设计和研发经验，精通Java/python/C#/JavaScript等开发语言。2011年开始进入物联网领域，目前主研 大规模设备/机器的物联通信、高性能Web应用系统等方向的研究，业余IT架构师、Hybrid Mobile App研究、区块链、大数据分析。
+
+敏捷教练：熟悉传统软件开发流程、敏捷、OKR管理方式
 
 Git 首页： https://github.com/ifengkou  
-技术博客：http://www.cnblogs.com/sloong/
+技术博客：http://www.cnblogs.com/sloong & https://ifengkou.github.io  
+运维的技术社区：http://www.clickhouse.com.cn/
+
+### 学习经历
+
+2006- 2010: 哈尔滨学院软件工程专业，本科学士学位
+
+在校期间多次参加数学建模竞赛，分别在全国及东北数学建模竞赛中获得优秀奖和一等奖。  
+在校期间考取《软件设计师》软考资格证书；后续考取《信息系统项目管理师》高级资格证书；
 
 ### 工作经历 ###
 
+传统软件项目管理方式
+敏捷Scrum Master 
+Scrum + 极限
+OKR +ScrumMaster
+
+
 **2015.05 - 至今**  
-**湖南索托科技有限公司，高级工程师&主程，年薪14万**
+**湖南索托科技有限公司，高级工程师&主程**
 
 能源互联网解决方案提供商，拥有自主品牌“2026互联网温控”(2026.cn)。  
 主要从事大规模机器物联通信服务和Web应用系统的设计和研发工作；负责架构和研发的项目有'设备物联通信平台'的和'设备管控平台'
@@ -46,7 +62,7 @@ Git 首页： https://github.com/ifengkou
 - 熟练掌握JAVA和C# 编程语言，掌握nodejs事件驱动语言，有良好编码习惯  
 - 常用通信开发框架：Spring+Netty；对与机器的通信有深入了解  
 - 常用Web开发架构：SpringMVC+MyBatis、Spring+Struts+Hibernate、ASP.NET MVC+EntityFramework 
-- 能独立完成产品的REST API设计以及DB Schema设计  
+- 能独立完成产品的RESTFUL API设计以及DB Schema设计  
 - 熟练使用Linux操作系统，熟练掌握shell常用命令，熟悉阿里云、新浪云、百度云常用服务  
 - 熟练掌握LBS开发，熟悉Mapabc、百度地图、Google地图的API开发  
 - 熟练使用MySql、MSSql关系型数据库，熟悉MongoDb，Redis，ehcache，memcached等数据库和缓存
@@ -89,7 +105,7 @@ Git 首页： https://github.com/ifengkou
 
 #### 社区系统 ####
 
-后台API接口系统是基于SpringMVC　和 Mybatis 开发的社区系统接口，符合RESTFULL 设计规范，功能丰富，小巧迅速。主要包含 用户、主题、评论、消息四大模块。其中主题可以扩展不同的栏目如 分享、问答等，灵活且可扩展性强。
+后台API接口系统是基于SpringMVC　和 Mybatis 开发的社区系统接口，符合RESTFUL 设计规范，功能丰富，小巧迅速。主要包含 用户、主题、评论、消息四大模块。其中主题可以扩展不同的栏目如 分享、问答等，灵活且可扩展性强。
 
 **选用技术、框架：**  
 服务端选用SpringMvc，Mybatis，ehcache缓存，druid连接池；  
